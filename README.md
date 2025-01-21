@@ -46,7 +46,7 @@ A dynamic line chart tracks monthly customer acquisitions across regions:
 ---
 
 
-### Insights Covered
+###  🔍 Insights Covered
 1. **YTD Sales**: $14.11M (down 5.04% compared to PY).
 2. **Profit**: $1.30M (down 0.46% compared to PY).
 3. **Order Quantity**: 157,978 units (up 15.02% compared to PY).
@@ -56,7 +56,7 @@ A dynamic line chart tracks monthly customer acquisitions across regions:
 ---
 
 
-#### Visualization Tools
+###  🛠️ Visualization Tools
 - Bar Charts for category-wise YTD vs. PY sales comparison.
 - Pie Chart for market share by region.
 - Line Charts showing trends over time for sales, profit, and order quantities.
@@ -66,7 +66,7 @@ A dynamic line chart tracks monthly customer acquisitions across regions:
 ---
 
 
-## 🛠️ **How to Use This Repository**
+##  🚀 **How to Use This Repository**
 
 ### Prerequisites:
 - **Tableau Public** or **Tableau Desktop** to view and interact with the dashboard.                                                                                   
@@ -84,7 +84,7 @@ A dynamic line chart tracks monthly customer acquisitions across regions:
 ---
 
 
-## Author
+## 🖋️ Author
 Supriya Kumari
 
 
