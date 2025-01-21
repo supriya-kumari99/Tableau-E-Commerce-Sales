@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Dashboard
 
-This repository hosts an **interactive Tableau Dashboard** for analyzing **Year-to-Date (YTD)** sales performance and trends of an e-commerce business. The dashboard enables stakeholders to monitor critical performance metrics, evaluate regional market contributions, track sales trends, and assess product category performance, providing valuable insights to drive data-driven decisions.
+This repository hosts an interactive Tableau Dashboard for analyzing Year-to-Date (YTD) sales performance and trends of an e-commerce business. The dashboard enables stakeholders to monitor critical performance metrics, evaluate regional market contributions, track sales trends, and assess product category performance, providing valuable insights to drive data-driven decisions.
 
 ---
 
@@ -14,7 +14,7 @@ This repository hosts an **interactive Tableau Dashboard** for analyzing **Year-
 ## 🖥️ Dashboard Highlights
 
 ### 📊 **Key Performance Indicators (KPIs)**  
-The dashboard covers three critical KPIs, with **comparison against Previous Year (PY)** to measure growth and trends:  
+The dashboard covers three critical KPIs, with comparison against Previous Year (PY) to measure growth and trends:  
 - **Sales**: `$14.11M` (📉 Decrease of 5.04% vs. PY)  
 - **Profit**: `$1.30M` (📉 Down 0.46% vs. PY)  
 - **Order Quantity**: `157,978` units (📈 Growth of 15.02% vs. PY)
