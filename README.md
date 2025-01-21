@@ -66,6 +66,26 @@ A dynamic line chart tracks monthly customer acquisitions across regions:
 ---
 
 
+## 🛠️ **How to Use This Repository**
+
+### Prerequisites:
+- **Tableau Public** or **Tableau Desktop** to view and interact with the dashboard.                                                                                   
+
+
+---
+
+## 🔚 **Conclusion**
+- LATAM and Europe drive substantial revenue growth.
+- Order volume growth and profit trends are misaligned, requiring cost and pricing optimization.
+- Low-performing categories like Computers and Men’s Footwear offer growth opportunities.
+- Data-driven strategies can improve revenue and profitability effectively.
+
+
+---
+
+
+## Author
+Supriya Kumari
 
 
    
